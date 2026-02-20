@@ -2,6 +2,7 @@
 
 # Java Spring BE
 A simple RESTful API built with Java and Spring Boot.
+As IDE I used IntelliJ with Ubuntu OS.
 
 I am trying to create this with Udemy course - source link below.  
 https://www.udemy.com/course/spring-hibernate-tutorial/
