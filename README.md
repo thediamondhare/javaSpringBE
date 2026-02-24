@@ -10,8 +10,6 @@ https://www.udemy.com/course/spring-hibernate-tutorial/
 
 ## Features
 
-- PostgreSQL DB
-- RESTful API design
 - Maven build system
 
 ## Tech Stack
@@ -20,5 +18,3 @@ https://www.udemy.com/course/spring-hibernate-tutorial/
 - Spring Boot
 - Spring Web
 - Maven
-- Hibernate
-- DB PostgreSQL
